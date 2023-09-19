@@ -1,0 +1,13 @@
+header ul {
+    list-style-type: none;
+    display: flex;
+}
+
+header li {
+    padding-left: 1rem;
+}
+
+header a {
+    text-decoration: none;
+    color: inherit;
+}
