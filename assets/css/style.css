@@ -26,6 +26,23 @@ header a {
     width: 100%;
 }
 
+#pictures img {
+    max-height: 300px;
+}
+
+#pictures p {
+    display: flex;
+    justify-content: center;
+    color: #008000;
+}
+
+#activities {
+    background: url("../images/glucksman_gallery.webp");
+    width: 100%;
+    height: 500px;
+    color: #ffffff;
+}
+
 @media screen and (min-width: 576px) {
     #pictures {
         column-count: 2;
