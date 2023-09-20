@@ -22,7 +22,13 @@ header a {
     color: inherit;
 }
 
-img {
-    max-width: 100vw;
-    max-height: 100vh;
+#pictures img, #pictures div {
+    width: 100%;
+}
+
+@media screen and (min-width: 576px) {
+    #pictures {
+        column-count: 2;
+        column-gap: 0;
+    }
 }
