@@ -32,3 +32,17 @@ header a {
         column-gap: 0;
     }
 }
+
+@media screen and (min-width: 768px) {
+    #pictures {
+        column-count: 3;
+        column-gap: 0;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    #pictures {
+        column-count: 4;
+        column-gap: 0;
+    }
+}
