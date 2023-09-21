@@ -29,15 +29,15 @@ header a {
     color: #ffffff;
 }
 
-#pictures img, #pictures div {
+#pictures img, #pictures figure {
     width: 100%;
 }
 
 #pictures img {
-    max-height: 300px;
+    height: 250px;
 }
 
-#pictures p {
+#pictures figcaption {
     display: flex;
     justify-content: center;
     color: #008000;
@@ -52,19 +52,23 @@ header a {
 
 @media screen and (min-width: 576px) {
     #pictures {
-        column-count: 2;
-        column-gap: 0;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    #pictures>figure {
+        flex-basis: 50%;
     }
 }
 
 @media screen and (min-width: 768px) {
-    #pictures {
-        column-count: 3;
+    #pictures>figure {
+        flex-basis: 33%;
     }
 }
 
 @media screen and (min-width: 992px) {
-    #pictures {
-        column-count: 4;
+    #pictures>figure {
+        flex-basis: 25%;
     }
 }
