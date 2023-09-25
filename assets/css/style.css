@@ -51,7 +51,7 @@ header a {
 
 #activities {
     background-color: #800000;
-    height: 400px;
+    height: 100vh;
     color: #ffffff;
     display: flex;
     flex-basis: 60%;
