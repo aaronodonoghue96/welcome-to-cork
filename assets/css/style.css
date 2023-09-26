@@ -6,6 +6,13 @@
 
 body {
     background-color: #eeeeee;
+    color: #404040;
+    font-family: sans-serif;
+}
+
+h1, h2, h3, h4 {
+    color: #202020;
+    font-family: sans-serif;
 }
 
 header ul {
