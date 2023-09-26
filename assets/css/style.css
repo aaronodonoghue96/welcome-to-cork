@@ -31,10 +31,14 @@ header {
 header ul {
     list-style-type: none;
     display: flex;
+    justify-content: right;
 }
 
 header li {
     padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 1rem;
+    size: 20px;
 }
 
 header a {
