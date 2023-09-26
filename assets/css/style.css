@@ -86,19 +86,19 @@ h4 > a {
     color: #008000;
 }
 
+/* General - thingstodo.html */
+#signup {
+    display: flex;
+    background: #d0d0d0;
+}
+
 /* Activities section - thingstodo.html */
 #activities {
-    background-color: #303030;
     height: 100vh;
-    color: #ffffff;
+    color: #202020;
     display: flex;
     flex-basis: 60%;
     flex-direction: column;
-}
-
-/* Sign-up form for updated - thingstodo.html */
-#signup {
-    display: flex;
 }
 
 /* Media query for devices 576 pixels or wider - landscape view on mobile */
