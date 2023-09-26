@@ -54,6 +54,13 @@ header a {
     justify-content: center;
 }
 
+h4 > a {
+    margin-left: 4px;
+    margin-right: 4px;
+    text-decoration: none;
+    color: #ff0000;
+}
+
 /* Pictures - pictures.html */
 
 #pictures img, #pictures figure {
