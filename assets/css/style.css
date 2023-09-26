@@ -31,6 +31,16 @@ header a {
     max-height: 400px;
 }
 
+#homepage div {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#homepage h2, h4 {
+    display: flex;
+    justify-content: center;
+}
+
 #pictures img, #pictures figure {
     width: 100%;
 }
