@@ -35,6 +35,8 @@ header a {
     color: inherit;
 }
 
+/* Main section - index.html */
+
 #homepage img {
     width: 100%;
     max-height: 500px;
@@ -50,6 +52,8 @@ header a {
     justify-content: center;
 }
 
+/* Pictures - pictures.html */
+
 #pictures img, #pictures figure {
     width: 100%;
 }
@@ -64,10 +68,7 @@ header a {
     color: #008000;
 }
 
-#signup {
-    display: flex;
-}
-
+/* Activities section - thingstodo.html */
 #activities {
     background-color: #800000;
     height: 100vh;
@@ -77,6 +78,12 @@ header a {
     flex-direction: column;
 }
 
+/* Sign-up form for updated - thingstodo.html */
+#signup {
+    display: flex;
+}
+
+/* Media query for devices 576 pixels or wider - landscape view on mobile */
 @media screen and (min-width: 576px) {
     #pictures {
         display: flex;
@@ -88,12 +95,14 @@ header a {
     }
 }
 
+/* Media query for devices 768 pixels of wider - tablets */
 @media screen and (min-width: 768px) {
     #pictures>figure {
         flex-basis: 33%;
     }
 }
 
+/* Media query for devices 992 pixels or wider - laptops or desktops */
 @media screen and (min-width: 992px) {
     #pictures>figure {
         flex-basis: 25%;
