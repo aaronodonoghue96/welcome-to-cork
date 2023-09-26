@@ -1,5 +1,7 @@
 /* General Styles - All Pages */
 
+/* The CSS for the asterisk wildcard selector to override default styles
+    was taken from the Love Running project */
 * {
     margin: 0;
     padding: 0;
