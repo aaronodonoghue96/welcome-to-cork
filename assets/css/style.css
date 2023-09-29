@@ -148,6 +148,12 @@ h4 > a {
     color: #ff0000;
 }
 
+/* Footer - index.html */
+
+#footer-index {
+    background-color: #aaaaaa;
+}
+
 /* Pictures - pictures.html */
 
 #pictures img, #pictures figure {
