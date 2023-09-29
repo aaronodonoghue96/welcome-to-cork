@@ -114,6 +114,8 @@ footer {
     padding: 4px 0;
 }
 
+/* Info section on Cork - index.html */
+
 #info {
     background-color: #000080;
     color: #ffffff;
@@ -126,6 +128,7 @@ footer {
 #info>section {
     flex-basis: 100%;
     display: flex;
+    flex-direction: column;
     justify-content: center;
 }
 
