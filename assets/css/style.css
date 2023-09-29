@@ -40,10 +40,7 @@ header {
 }
 
 header li {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    padding-top: 1rem;
-    size: 20px;
+    padding: 0 1rem 1rem 1rem;
 }
 
 header #welcome {
@@ -106,21 +103,16 @@ nav {
 #homepage h2 {
     display: flex;
     justify-content: center;
-    padding-top: 4px;
-    padding-bottom: 4px;
+    padding-top: 4px 0;
 }
 
 h4 {
     align-self: center;
-    padding-top: 4px;
-    padding-bottom: 4px;
+    padding-top: 4px 0;
 }
 
 h4 > a {
-    margin-left: 4px;
-    margin-right: 4px;
-    padding-top: 4px;
-    padding-bottom: 4px;
+    margin: 4px;
     text-decoration: none;
     color: #ff0000;
 }
@@ -159,18 +151,17 @@ h4 > a {
 }
 
 #activities>h2 {
-    margin-top: 12px;
-    margin-bottom: 12px;
+    margin-top: 12px 0;
     display: flex;
     justify-content: center;
 }
 
 #activities>p {
-    margin-top: 8px;
-    margin-bottom: 8px;
-    padding-left: 1rem;
-    padding-right: 1rem;
+    margin: 8px 0;
+    padding: 0 1rem;
 }
+
+/* Everything below this line is fine */
 
 /* Media query for devices 576 pixels or wider - landscape view on mobile */
 
