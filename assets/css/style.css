@@ -78,6 +78,23 @@ footer {
     justify-content: center;
 }
 
+/* Hamburger menu to display links */
+
+#display-links:checked~nav {
+    display: block;
+    padding-top: 3rem;
+}
+
+#display-links {
+    display: none;
+}
+
+.hamburger {
+    font-size: 2rem;
+    padding-right: 1rem;
+    padding-top: 0.5rem;
+}
+
 /* Main section - index.html */
 
 #homepage {
