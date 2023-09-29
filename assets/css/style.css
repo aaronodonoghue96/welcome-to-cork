@@ -212,6 +212,32 @@ h4 > a {
     justify-content: center;
 }
 
+/* Form - thingstodo.html */
+
+#signup {
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: #a0a0ff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#signup h3, h4 {
+    display: flex;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    justify-content: center;
+}
+
+#signup div {
+    display: flex;
+    justify-content: center;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
 /* Media query for devices 576 pixels or wider - landscape view on mobile */
 
 @media screen and (min-width: 576px) {
