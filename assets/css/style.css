@@ -65,11 +65,13 @@ nav {
 /* Main section - index.html */
 
 #homepage {
+    width: 100vw;
     background-color: #aaaaaa;
+    display: flex;
+    flex-direction: column;
 }
 
 #homepage img {
-    width: 100%;
     height: 500px;
 }
 
