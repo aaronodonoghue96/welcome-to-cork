@@ -258,6 +258,12 @@ h4 > a {
     justify-content: center;
 }
 
+/* Footer - thingstodo.html */
+
+#footer-thingstodo {
+    background-color: #a0a0ff;
+}
+
 /* Media query for devices 576 pixels or wider - landscape view on mobile */
 
 @media screen and (min-width: 576px) {
