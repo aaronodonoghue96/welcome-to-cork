@@ -39,6 +39,7 @@ header li {
 
 header #welcome {
     padding-top: 5px;
+    padding-left: 1rem;
     display: flex;
     justify-content: left;
 }
