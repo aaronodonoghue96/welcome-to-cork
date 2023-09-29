@@ -15,6 +15,11 @@ body {
     font-family: sans-serif;
 }
 
+/* Used to show which page is currently active */
+.active {
+    text-decoration: underline;
+}
+
 /* Heading Styles - All Pages */
 
 h1, h2, h3, h4 {
