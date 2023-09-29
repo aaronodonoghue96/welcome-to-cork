@@ -67,7 +67,15 @@ nav {
     display: none;
     position: absolute;
     width: 100%;
-    padding-right: 1rem; 
+    padding-right: 1rem;
+}
+
+/* Footer styles - all pages */
+
+footer {
+    color: #000000;
+    display: flex;
+    justify-content: center;
 }
 
 /* Main section - index.html */
