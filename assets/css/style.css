@@ -2,6 +2,7 @@
 
 /* The CSS for the asterisk wildcard selector to override default styles
     was taken from the Love Running project */
+
 * {
     margin: 0;
     padding: 0;
@@ -16,6 +17,7 @@ body {
 }
 
 /* Used to show which page is currently active */
+
 .active {
     text-decoration: underline;
 }
@@ -140,6 +142,7 @@ h4 > a {
 }
 
 /* General - thingstodo.html */
+
 #signup {
     height: 100vh;
     display: flex;
@@ -148,6 +151,7 @@ h4 > a {
 }
 
 /* Activities section - thingstodo.html */
+
 #activities {
     color: #202020;
     display: flex;
@@ -169,6 +173,7 @@ h4 > a {
 }
 
 /* Media query for devices 576 pixels or wider - landscape view on mobile */
+
 @media screen and (min-width: 576px) {
     #info {
         display: flex;
@@ -192,6 +197,7 @@ h4 > a {
 }
 
 /* Media query for devices 768 pixels of wider - tablets */
+
 @media screen and (min-width: 768px) {
     #pictures>figure {
         flex-basis: 33%;
@@ -199,6 +205,7 @@ h4 > a {
 }
 
 /* Media query for devices 992 pixels or wider - laptops or desktops */
+
 @media screen and (min-width: 992px) {
     #info>section {
         flex-basis: 25%;
