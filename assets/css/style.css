@@ -73,8 +73,14 @@ nav {
 }
 
 #info {
+    background-color: #000080;
+    color: #ffffff;
     display: flex;
     justify-content: space-evenly;
+}
+
+h3 {
+    color: #ffffff;
 }
 
 #homepage h2, h4 {
@@ -124,6 +130,14 @@ h4 > a {
 
 /* Media query for devices 576 pixels or wider - landscape view on mobile */
 @media screen and (min-width: 576px) {
+    #info {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    #info>section {
+        flex-basis: 50%;
+    }
     #pictures {
         display: flex;
         flex-direction: row;
@@ -143,6 +157,9 @@ h4 > a {
 
 /* Media query for devices 992 pixels or wider - laptops or desktops */
 @media screen and (min-width: 992px) {
+    #info>section {
+        flex-basis: 25%;
+    }
     #pictures>figure {
         flex-basis: 25%;
     }
