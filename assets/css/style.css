@@ -76,11 +76,20 @@ nav {
     background-color: #000080;
     color: #ffffff;
     display: flex;
+    flex-direction: row;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
-h3 {
+#info>section {
+    flex-basis: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#info>section>h3 {
     color: #ffffff;
+    justify-content: center
 }
 
 #homepage h2, h4 {
@@ -132,11 +141,14 @@ h4 > a {
 @media screen and (min-width: 576px) {
     #info {
         display: flex;
+        justify-content: space-evenly;
         flex-direction: row;
         flex-wrap: wrap;
     }
     #info>section {
         flex-basis: 50%;
+        display: flex;
+        justify-content: center;
     }
     #pictures {
         display: flex;
