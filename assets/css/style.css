@@ -95,9 +95,15 @@ nav {
     justify-content: center
 }
 
-#homepage h2, h4 {
+#homepage h2 {
     display: flex;
     justify-content: center;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+h4 {
+    align-self: center;
     padding-top: 4px;
     padding-bottom: 4px;
 }
@@ -105,6 +111,8 @@ nav {
 h4 > a {
     margin-left: 4px;
     margin-right: 4px;
+    padding-top: 4px;
+    padding-bottom: 4px;
     text-decoration: none;
     color: #ff0000;
 }
