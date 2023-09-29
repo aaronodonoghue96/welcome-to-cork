@@ -141,17 +141,24 @@ h4 > a {
 
 /* General - thingstodo.html */
 #signup {
+    height: 100vh;
     display: flex;
+    flex-direction: column;
     background: #d0d0d0;
 }
 
 /* Activities section - thingstodo.html */
 #activities {
-    height: 100vh;
     color: #202020;
     display: flex;
-    flex-basis: 60%;
     flex-direction: column;
+}
+
+#activities>h2 {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    display: flex;
+    justify-content: center;
 }
 
 #activities>p {
