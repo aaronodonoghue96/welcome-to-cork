@@ -53,14 +53,18 @@ header a {
     max-height: 500px;
 }
 
-#homepage div {
+#info {
     display: flex;
     justify-content: space-evenly;
+    padding-top: 8px;
+    padding-bottom: 16px;
 }
 
 #homepage h2, h4 {
     display: flex;
     justify-content: center;
+    padding-top: 4px;
+    padding-bottom: 4px;
 }
 
 h4 > a {
