@@ -154,6 +154,13 @@ h4 > a {
     flex-direction: column;
 }
 
+#activities>p {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
 /* Media query for devices 576 pixels or wider - landscape view on mobile */
 @media screen and (min-width: 576px) {
     #info {
