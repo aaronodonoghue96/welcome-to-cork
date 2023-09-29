@@ -238,6 +238,15 @@ h4 > a {
     margin-bottom: 12px;
 }
 
+/* Form inputs - thingstodo.html */
+
+.forminput {
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    margin-left: 12px;
+}
+
 /* Media query for devices 576 pixels or wider - landscape view on mobile */
 
 @media screen and (min-width: 576px) {
