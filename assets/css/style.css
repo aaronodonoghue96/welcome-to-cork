@@ -156,6 +156,11 @@ h4 > a {
 
 /* Pictures - pictures.html */
 
+#pics-heading {
+    display: flex;
+    justify-content: center;
+}
+
 #pictures img, #pictures figure {
     width: 100%;
 }
