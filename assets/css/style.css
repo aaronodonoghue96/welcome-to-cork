@@ -161,8 +161,6 @@ h4 > a {
     padding: 0 1rem;
 }
 
-/* Everything below this line is fine */
-
 /* Media query for devices 576 pixels or wider - landscape view on mobile */
 
 @media screen and (min-width: 576px) {
