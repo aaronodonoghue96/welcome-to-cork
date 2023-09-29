@@ -175,6 +175,12 @@ h4 > a {
     color: #000000;
 }
 
+/* Footer - pictures.html */
+
+#footer-pictures {
+    background-color: #ffffff;
+}
+
 /* General - thingstodo.html */
 
 #thingstodo {
