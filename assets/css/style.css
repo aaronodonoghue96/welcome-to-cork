@@ -108,6 +108,12 @@ footer {
     height: 80vh;
 }
 
+#homepage h2 {
+    display: flex;
+    justify-content: center;
+    padding: 4px 0;
+}
+
 #info {
     background-color: #000080;
     color: #ffffff;
@@ -126,12 +132,6 @@ footer {
 #info>section>h3 {
     color: #ffffff;
     justify-content: center
-}
-
-#homepage h2 {
-    display: flex;
-    justify-content: center;
-    padding: 4px 0;
 }
 
 h4 {
