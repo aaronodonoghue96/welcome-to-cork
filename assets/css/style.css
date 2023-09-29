@@ -216,6 +216,24 @@ h4 > a {
 /* Media query for devices 768 pixels of wider - tablets */
 
 @media screen and (min-width: 768px) {
+    header {
+        height: 50px;
+    }
+    nav {
+        display: block;
+    }
+    #navlinks {
+        display: flex;
+        justify-content: right;
+        padding-top: 0;
+        padding-bottom: 1rem;
+    }
+    #navlinks>li {
+        padding-left: 1rem;
+    }
+    .hamburger {
+        display: none;
+    }
     #pictures>figure {
         flex-basis: 33%;
     }
