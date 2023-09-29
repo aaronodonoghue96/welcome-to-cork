@@ -252,6 +252,12 @@ h4 > a {
     margin-right: 12px;
 }
 
+#submit {
+    width: 100px;
+    display: flex;
+    justify-content: center;
+}
+
 /* Media query for devices 576 pixels or wider - landscape view on mobile */
 
 @media screen and (min-width: 576px) {
