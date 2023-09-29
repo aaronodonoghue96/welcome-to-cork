@@ -1,6 +1,8 @@
 # welcome-to-cork
 A website about things to do and see in Cork
 
+Testing:
+The Pictures page has been tested on all screen resolutions available on Dev Tools, and in all cases, the images display in the correct layout, are visible, and the captions below them are visible.
 
 Fixed Bugs:
 
