@@ -39,10 +39,6 @@ header {
     justify-content: space-between;
 }
 
-header li {
-    padding: 0 1rem 1rem 1rem;
-}
-
 header #welcome {
     padding-top: 5px;
     padding-left: 1rem;
@@ -50,15 +46,19 @@ header #welcome {
     justify-content: left;
 }
 
-header ul {
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#navlinks {
     list-style-type: none;
     display: flex;
     justify-content: right;
 }
 
-header a {
-    text-decoration: none;
-    color: inherit;
+#navlinks>li {
+    padding: 0 1rem 1rem 1rem;
 }
 
 nav {
