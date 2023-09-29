@@ -81,24 +81,30 @@
             </section>
 
             <!-- Form for signing up for emails. Value for the action attribute was taken from the Love Running project -->
-            <form id="form" method="POST" action="https://formdump.codeinstitute.net">
-                <h3>Curious to learn more about Cork?</h3>
-                <h3>Sign up for ideas on things to do in Cork!</h3>
-                <label for="name">Name</label>
-                <input id="name" name="name" type="text">
-                <label for="email">Email</label>
-                <input id="email" name="email" type="email">
-                <h4>How often do you want to receive emails?</h4>
-                <div>
-                    <label for="daily">Daily</label>
-                    <input id="daily" name="email-frequency" type="radio">
-                    <label for="weekly">Weekly</label>
-                    <input id="weekly" name="email-frequency" type="radio">
-                    <label for="weekly">Every two weeks</label>
-                    <input id="every-two-weeks" name="email-frequency" type="radio">
-                </div>
-                <button type="submit" id="submit">Submit</button>
-            </form>
+            <div id="signup">
+              <form id="form" method="POST" action="https://formdump.codeinstitute.net">
+                  <h3>Curious to learn more about Cork?</h3>
+                  <h3>Sign up for ideas on things to do in Cork!</h3>
+                  <div>
+                    <label for="name">Name</label>
+                    <input id="name" name="name" type="text">
+                  </div>
+                  <div>
+                    <label for="email">Email</label>
+                    <input id="email" name="email" type="email">
+                  </div>
+                  <h4>How often do you want to receive emails?</h4>
+                  <div>
+                      <label for="daily">Daily</label>
+                      <input id="daily" name="email-frequency" type="radio">
+                      <label for="weekly">Weekly</label>
+                      <input id="weekly" name="email-frequency" type="radio">
+                      <label for="weekly">Every two weeks</label>
+                      <input id="every-two-weeks" name="email-frequency" type="radio">
+                  </div>
+                  <button type="submit" id="submit">Submit</button>
+              </form>
+            </div>
         </main>
     </body>
 </html>
