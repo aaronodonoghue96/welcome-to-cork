@@ -103,12 +103,12 @@ nav {
 #homepage h2 {
     display: flex;
     justify-content: center;
-    padding-top: 4px 0;
+    padding: 4px 0;
 }
 
 h4 {
     align-self: center;
-    padding-top: 4px 0;
+    padding: 4px 0;
 }
 
 h4 > a {
