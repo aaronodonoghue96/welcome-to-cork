@@ -27,17 +27,18 @@ header {
     z-index: 100;
     height: 50px;
     display: flex;
-    flex-direction: row;
+    justify-content: space-between;
 }
 
-header h1, li {
+header li {
     padding-left: 1rem;
     padding-right: 1rem;
     padding-top: 1rem;
+    size: 20px;
 }
 
-header h1 {
-    width: 250px;
+header #welcome {
+    padding-top: 5px;
     display: flex;
     justify-content: left;
 }
@@ -46,16 +47,17 @@ header ul {
     list-style-type: none;
     display: flex;
     justify-content: right;
-    flex-basis: 70%;
-}
-
-header li {
-    size: 20px;
 }
 
 header a {
     text-decoration: none;
     color: inherit;
+}
+
+nav {
+    display: block;
+    position: relative;
+    width: fit-content;
 }
 
 /* Main section - index.html */
