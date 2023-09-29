@@ -247,6 +247,11 @@ h4 > a {
     margin-left: 12px;
 }
 
+.radio {
+    margin-left: 4px;
+    margin-right: 12px;
+}
+
 /* Media query for devices 576 pixels or wider - landscape view on mobile */
 
 @media screen and (min-width: 576px) {
