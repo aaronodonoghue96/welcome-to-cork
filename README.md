@@ -43,6 +43,8 @@ All of the above were also tested by manually resizing the browser window, which
 
 - Some captions in pictures.html page were displaying in a different column to their image if the image was at the end of the column because the media queries used column-count to divide the grid into columns, which did not treat each div containing an image and its caption as a unit. This has been fixed by using flexbox to display the images (together with their captions), in rows instead of columns.
 
+### Unfixed Bugs:
+- No unfixed bugs were found to remain in this project after testing.
 
 ## Credits
 
