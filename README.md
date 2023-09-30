@@ -24,3 +24,25 @@ All of the above were also tested by manually resizing the browser window, which
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/#textarea) (all 3 pages, index.html, pictures.html and thingstodo.html, had their HTML content copied and pasted into the text area and then validated)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator) (style.css has its CSS content copied and pasted into the text area and then validated)
+
+  ## Credits
+
+  ### Content
+
+  - The hamburger icon for the nav bar was taken from [Font Awesome](https://fontawesome.com/)
+  - The CSS rule for the asterisk selector and the HTML form action in thingstodo.html leading to Code institute's form dump were taken from the Love Running project, and have both been also credited in the files where they appear respectively.
+
+  ### Media
+
+  - The main image, depicting a view of Cork, looking onto Patrick Street, is from Flickr https://www.flickr.com/photos/infomatique/7586289188, was taken by William Murphy, and is distributed under the ShareAlike license https://creativecommons.org/licenses/by-sa/2.0/. No changes were made to the image during the creation of the Welcome To Cork project.
+
+  - Most of the photos in the gallery are royalty-free images from Dreamstime. Links to the image sources are below:
+  - Barryscourt Castle https://www.dreamstime.com/stock-photo-barryscourt-castle-county-cork-ireland-located-eastern-southern-close-to-town-carrigtwohill-image87289998
+  - Blackrock Castle https://www.dreamstime.com/blackrock-castle-observarory-cork-sunset-ireland-image182726780
+  - Blarney Castle https://www.dreamstime.com/stock-photo-blarney-castle-ireland-irish-caisle%C3%A1n-na-blarnan-medieval-stronghold-near-cork-river-martin-image77960853
+  - Shandon https://www.dreamstime.com/stock-photo-st-anne-s-church-shandon-cork-aerial-view-ireland-mountains-cloudy-blue-sky-image63020588
+  - University College Cork (UCC) https://www.dreamstime.com/long-hall-clock-tower-university-college-cork-ireland-horizontal-image241746832
+
+  The image of Cork Opera House is from Wikimedia Commons https://commons.wikimedia.org/wiki/File:Cork_Opera_House_%281%29,_1_Emmet_Place,_Cork_-_geograph.org.uk_-_2640543.jpg
+  The image of Crawford Art Gallery is also from Wikimedia Commons https://commons.wikimedia.org/wiki/File:Crawford_Art_Gallery,_Cork,_Ireland.jpg
+  The image of Cork City Gaol is from geograph.ie, was taken by Richard Fensome https://www.geograph.ie/photo/1239790, and is distributed under the Creative Commons licence
