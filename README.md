@@ -66,6 +66,8 @@ The nav bar has been confirmed to display correctly on both small screens and la
 
 All of the above were also tested by manually resizing the browser window, which also allowed me to test that the nav bar will revert to displaying on the right when the screen is maximized after being reduced, and the links will be in the same place they started in.
 
+The form in the Things To Do page (thingstodo.html) also has validation for all inputs, the name field will prompt you to enter a name, the email field will prompt you to enter an email (and will only proceed if the email contains the "@" symbol), and one of the radio buttons for frequency is already selected by default when you enter the form.
+
 ### Validator Testing
 
 - HTML
