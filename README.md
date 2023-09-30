@@ -1,19 +1,5 @@
-# welcome-to-cork
-A website about things to do and see in Cork
+# Welcome To cork
 
-# Testing:
-The Pictures page has been tested on all screen resolutions available on Dev Tools, and in all cases, the images display in the correct layout, are visible, and the captions below them are visible.
+Welcome To Cork is a website about the city of Cork, which tells users a bit about the city, some things to do in Cork, and shows pictures of places to visit in Cork. It is targeted at tourists who are looking for an idea of where to go on their next holiday, and those who want to see what Cork has to offer.
 
-# Fixed Bugs:
-Links in nav bar were displaying in standard blue/purple with underline and bullet points because CSS link was not updated to account for the fact style.css was moved to the css folder. The path is now updated in all pages, and the links are displaying correctly.
-
-Some captions in pictures.html page were displaying in a different column to their image if the image was at the end of the column because the media queries used column-count to divide the grid into columns, which did not treat each div containing an image and its caption as a unit. This has been fixed by using flexbox to display the images (together with their captions), in rows instead of columns.
-
-# Unimplemented Features:
-There was originally going to be a timetable section on the thingstodo.html page with timetables for the Cork City Bus Tour and transport to locations of tourist attractions in Cork such as Blarney and Midleton, but this was scrapped to avoid clutter on the page.
-
-# Credits:
-Code:
-
-Images:
-Blarney Castle - https://www.dreamstime.com/stock-photo-blarney-castle-ireland-irish-caisle%C3%A1n-na-blarnan-medieval-stronghold-near-cork-river-martin-image77960853
+Welcome To Cork will be useful to tourists to inform them about Cork, giving them a brief overview of different types of places to visit, such as historical sites, places of entertainment and culture, and restaurants. It may also be useful for people living in Cork to discover hidden gems within their own city, and gain a new appreciation for Cork.
