@@ -45,6 +45,13 @@ The project has a number of different features, which are listed in more detail 
   - The activities section lists details on some additional activities to do in Cork, such as the Cork City Bus Tour, which passes by Cork City Gaol among other places of significance in Cork, shopping at the Marina Market, and visiting the towns of Cobh and Midleton in County Cork.
   - This section is useful as it outlines extra ideas for things to do on your trip to Cork, and to get a feel for what Cork has to offer.
 
+- __Sign-up Form__
+
+  ![Nav Bar](https://github.com/aaronodonoghue96/welcome-to-cork/blob/main/signup_form.png)
+
+  - The sign-up form at the end of the Things To Do page (thingstodo.html) gives the user the opportunity to sign up for an email-based newsletter on new idea for things to do in Cork, such as upcoming concerts or shows, or other tourist attractions not mentioned on the Welcome To Cork website. It also allows the user select how often they would like to receive these emails.
+  - This section allows users to find out additional information about Cork and stay up to date with upcoming events in Cork.
+
 ## Testing
 
 This project has been tested on the Chrome and Microsoft Edge browsers, and in both cases, no problems with display or rendering were found.
