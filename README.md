@@ -17,6 +17,13 @@ The project has a number of different features, which are listed in more detail 
   - The nav bar is located in the header at the top of all three pages, the Home page (index.html), the Pictures page (pictures.html) and the Things To Do page (thingstodo.html). It includes links to all three pages, and indicates the page you are currently on by underlining the link to it. On smaller screens, the links are hidden but will be displayed by clicking on the hamburger icon that appears in the upper right corner.
   - This sections allows users to easily navigate the site without needing to use the browser's forward and back buttons.
 
+- __Landing Image__
+
+  ![Nav Bar](https://github.com/aaronodonoghue96/welcome-to-cork/blob/main/landing.png)
+
+  - The landing image is displayed on the Home page (index.html), and depicts a view of Cork, looking onto Patrick Street. It shows the user what Cork looks like, giving them a good idea of what the site is about.
+  - This section introduces the user to Welcome To Cork with a photo of the city's main street, and gives the user a good impression of what to expect.
+
 ## Testing
 
 This project has been tested on the Chrome and Microsoft Edge browsers, and in both cases, no problems with display or rendering were found.
