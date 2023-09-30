@@ -52,6 +52,10 @@ The project has a number of different features, which are listed in more detail 
   - The sign-up form at the end of the Things To Do page (thingstodo.html) gives the user the opportunity to sign up for an email-based newsletter on new idea for things to do in Cork, such as upcoming concerts or shows, or other tourist attractions not mentioned on the Welcome To Cork website. It also allows the user select how often they would like to receive these emails.
   - This section allows users to find out additional information about Cork and stay up to date with upcoming events in Cork.
 
+### Unimplemented/Future Features:
+  - There was originally going to be a timetable section on the thingstodo.html page with timetables for the Cork City Bus Tour and transport to locations of tourist attractions in Cork such as Blarney and Midleton, but this was scrapped to avoid clutter on the page.
+
+
 ## Testing
 
 This project has been tested on the Chrome and Microsoft Edge browsers, and in both cases, no problems with display or rendering were found.
