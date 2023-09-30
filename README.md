@@ -8,6 +8,14 @@ Welcome To Cork will be useful to tourists to inform them about Cork, giving the
 
 The project has a number of different features, which are listed in more detail below:
 
+- __Nav Bar__
+
+  - The nav bar is located in the header at the top of all three pages, the Home page (index.html), the Pictures page (pictures.html) and the Things To Do page (thingstodo.html). It includes links to all three pages, and indicates the page you are currently on by underlining the link to it. On smaller screens, the links are hidden but will be displayed by clicking on the hamburger icon that appears in the upper right corner.
+  - This sections allows users to easily navigate the site without needing to use the browser's forward and back buttons.
+
+![Nav Bar](https://github.com/aaronodonoghue96/welcome-to-cork/blob/main/navbar.png)
+
+
 ### Existing Features
 
 ## Testing
