@@ -55,7 +55,6 @@ The project has a number of different features, which are listed in more detail 
 ### Unimplemented/Future Features:
   - There was originally going to be a timetable section on the thingstodo.html page with timetables for the Cork City Bus Tour and transport to locations of tourist attractions in Cork such as Blarney and Midleton, but this was scrapped to avoid clutter on the page.
 
-
 ## Testing
 
 This project has been tested on the Chrome and Microsoft Edge browsers, and in both cases, no problems with display or rendering were found.
