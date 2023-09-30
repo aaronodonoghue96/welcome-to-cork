@@ -38,6 +38,13 @@ The project has a number of different features, which are listed in more detail 
   - The gallery shows eight pictures of different sites in Cork, along with the name of each underneath the picture. This shows the user what some of the tourist attractions in Cork look like, and what their names are.
   - This section is useful, as it shows the user a number of places in Cork they can visit, and also says the name of each place so they can search for more information or directions.
 
+- __Activities Section__
+
+  ![Nav Bar](https://github.com/aaronodonoghue96/welcome-to-cork/blob/main/activities_section.png)
+
+  - The activities section lists details on some additional activities to do in Cork, such as the Cork City Bus Tour, which passes by Cork City Gaol among other places of significance in Cork, shopping at the Marina Market, and visiting the towns of Cobh and Midleton in County Cork.
+  - This section is useful as it outlines extra ideas for things to do on your trip to Cork, and to get a feel for what Cork has to offer.
+
 ## Testing
 
 This project has been tested on the Chrome and Microsoft Edge browsers, and in both cases, no problems with display or rendering were found.
