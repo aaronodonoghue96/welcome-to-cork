@@ -31,6 +31,13 @@ The project has a number of different features, which are listed in more detail 
   - The info section shows four sections, namely History, Culture, Entertainment and Cuisine, with a brief paragraph about each topic underneath, showing how each of these things relates to Cork, giving examples of each that can be found in the City.
   - This section gives an overview of what Cork has to offer, and shows there is something for everyone in Cork.
 
+- __Picture Gallery__
+
+  ![Nav Bar](https://github.com/aaronodonoghue96/welcome-to-cork/blob/main/gallery.png)
+
+  - The gallery shows eight pictures of different sites in Cork, along with the name of each underneath the picture. This shows the user what some of the tourist attractions in Cork look like, and what their names are.
+  - This section is useful, as it shows the user a number of places in Cork they can visit, and also says the name of each place so they can search for more information or directions.
+
 ## Testing
 
 This project has been tested on the Chrome and Microsoft Edge browsers, and in both cases, no problems with display or rendering were found.
