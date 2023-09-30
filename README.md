@@ -86,6 +86,14 @@ The form in the Things To Do page (thingstodo.html) also has validation for all 
 ### Unfixed Bugs:
 - No unfixed bugs were found to remain in this project after testing.
 
+## Deployment
+
+This project was created on GitHub using the CodeAnywhere platform, and changes and new files were added on a regular basis via frequent Git commits in the terminal of the CodeAnywhere platform.
+
+The project was then deployed to GitHub Pages. This was achieved by creating a new repository on GitHub for the deployment, called aaronodonoghue96.github.io, setting it up using GitHub Desktop, adding the changes from the original project on GitHub at https://github.com/aaronodonoghue96/welcome-to-cork, and publishing.
+
+The live link can be found here - https://aaronodonoghue96.github.io/welcome-to-cork/index.html
+
 ## Credits
 
 ### Content
