@@ -4,6 +4,25 @@ Welcome To Cork is a website about the city of Cork, which tells users a bit abo
 
 Welcome To Cork will be useful to tourists to inform them about Cork, giving them a brief overview of different types of places to visit, such as historical sites, places of entertainment and culture, and restaurants. It may also be useful for people living in Cork to discover hidden gems within their own city, and gain a new appreciation for Cork.
 
+## Table of Contents
+- [Features](#features)
+ - [Existing Features](#existing-features)
+  - [Nav Bar](#nav-bar)
+  - [Landing Image](#landing-image)
+  - [Info Section](#info-section)
+  - [Picture Gallery](#picture-gallery)
+  - [Activities Section](#activities-section)
+  - [Sign-Up Form](#sign-up-form)
+ - [Unimplemented/Future Features](#unimplemented/future-features)
+- [Testing](#testing)
+ - [Validator Testing](#validator-testing)
+ - [Fixed Bugs](#fixed-bugs)
+ - [Unfixed Bugs](#unfixed-bugs)
+- [Deployment](#deployment)
+- [Credits](#credits)
+ - [Content](#content)
+ - [Media](#media)
+
 ## Features
 
 The project has a number of different features, which are listed in more detail below:
