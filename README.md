@@ -1,4 +1,4 @@
-# Welcome To cork
+# Welcome To Cork
 
 Welcome To Cork is a website about the city of Cork, which tells users a bit about the city, some things to do in Cork, and shows pictures of places to visit in Cork. It is targeted at tourists who are looking for an idea of where to go on their next holiday, and those who want to see what Cork has to offer.
 
@@ -85,16 +85,19 @@ The form in the Things To Do page (thingstodo.html) also has validation for all 
 
 - The website logo link was not working because of the header being placed in front of it, preventing the link from being clicked. This was fixed by assigning the h1 tag containing the link a higher z-index value than the header.
 
+- The hamburger button was not working for the same reason, and it was fixed by the same method, assigning it a higher z-index value.
+
 ### Unfixed Bugs:
 - No unfixed bugs were found to remain in this project after testing.
 
 ## Deployment
 
-This project was created on GitHub using the CodeAnywhere platform, and changes and new files were added on a regular basis via frequent Git commits in the terminal of the CodeAnywhere platform.
+- The steps taken to deploy this project to GitHub Pages were as follows:
+  - Navigating to the Settings tab in the GitHub repository for this project
+  - Selecting the master branch from the source section drop-down menu in the settings tab
+  - After selecting the master branch, the page was refreshed with a detailed ribbon display to indicate it had been deployed successfully.
 
-The project was then deployed to GitHub Pages. This was achieved by creating a new repository on GitHub for the deployment, called aaronodonoghue96.github.io, setting it up using GitHub Desktop, adding the changes from the original project on GitHub at https://github.com/aaronodonoghue96/welcome-to-cork, and publishing.
-
-The live link can be found here - https://aaronodonoghue96.github.io/welcome-to-cork/index.html
+- The live link can be found here - https://aaronodonoghue96.github.io/welcome-to-cork/index.html
 
 ## Credits
 
