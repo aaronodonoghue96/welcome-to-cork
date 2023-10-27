@@ -7,12 +7,6 @@ Welcome To Cork will be useful to tourists to inform them about Cork, giving the
 ## Table of Contents
 - [Features](#features)
     - [Existing Features](#existing-features)
-        - [Nav Bar](#nav-bar)
-        - [Landing Image](#landing-image)
-        - [Info Section](#info-section)
-        - [Picture Gallery](#picture-gallery)
-        - [Activities Section](#activities-section)
-        - [Sign-Up Form](#sign-up-form)
     - [Unimplemented/Future Features](#unimplementedfuture-features)
 - [Testing](#testing)
     - [Validator Testing](#validator-testing)
