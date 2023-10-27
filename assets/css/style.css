@@ -32,7 +32,6 @@ h1, h2, h3, h4 {
 /* Header Styles - All Pages */
 
 header {
-    z-index: 100;
     height: 100px;
     width: 100%;
     display: flex;
@@ -45,6 +44,7 @@ header #welcome {
     padding-left: 1rem;
     display: flex;
     justify-content: left;
+    max-height: 40px;
 }
 
 header a {
