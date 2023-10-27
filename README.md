@@ -83,6 +83,8 @@ The form in the Things To Do page (thingstodo.html) also has validation for all 
 
 - Some captions in pictures.html page were displaying in a different column to their image if the image was at the end of the column because the media queries used column-count to divide the grid into columns, which did not treat each div containing an image and its caption as a unit. This has been fixed by using flexbox to display the images (together with their captions), in rows instead of columns.
 
+- The website logo link was not working because of the header being placed in front of it, preventing the link from being clicked. This was fixed by assigning the h1 tag containing the link a higher z-index value than the header.
+
 ### Unfixed Bugs:
 - No unfixed bugs were found to remain in this project after testing.
 

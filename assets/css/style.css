@@ -40,6 +40,7 @@ header {
 }
 
 header #welcome {
+    z-index: 101;
     padding-top: 5px;
     padding-left: 1rem;
     display: flex;
