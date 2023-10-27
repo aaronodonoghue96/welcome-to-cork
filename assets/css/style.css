@@ -80,12 +80,16 @@ footer {
     vertical-align: bottom;
     justify-content: center;
     max-width: 1140px;
+    height: 60px;
+    padding: 20px;
+    margin: auto;
 }
 
 /* Hamburger menu to display links */
 
 #display-links:checked~nav {
-    display: block;
+    display: flex;
+    align-self: flex-start;
     padding-top: 3rem;
 }
 
@@ -94,6 +98,7 @@ footer {
 }
 
 .hamburger {
+    z-index: 101;
     font-size: 2rem;
     padding-right: 1rem;
     padding-top: 0.5rem;
