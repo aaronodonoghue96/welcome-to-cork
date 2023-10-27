@@ -156,10 +156,10 @@ footer {
     vertical-align: top;
 }
 
-h4 {
+#homepage>h4 {
     padding: 24px 20px;
     display: flex;
-    flex-direction: row;
+    align-self: center;
 }
 
 /* Pictures - pictures.html */
