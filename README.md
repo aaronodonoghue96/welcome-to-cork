@@ -13,7 +13,7 @@ Welcome To Cork will be useful to tourists to inform them about Cork, giving the
   - [Picture Gallery](#picture-gallery)
   - [Activities Section](#activities-section)
   - [Sign-Up Form](#sign-up-form)
- - [Unimplemented/Future Features](#unimplemented-future-features)
+ - [Unimplemented/Future Features](#unimplementedfuture-features)
 - [Testing](#testing)
  - [Validator Testing](#validator-testing)
  - [Fixed Bugs](#fixed-bugs)
