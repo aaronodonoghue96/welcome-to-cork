@@ -172,10 +172,12 @@ h4 {
 
 #pictures-main {
   max-width: 1140px;
+  margin: auto;
 }
 
 #pictures img, #pictures figure {
     width: 100%;
+    padding: 20px;
 }
 
 #pictures img {
@@ -195,6 +197,7 @@ h4 {
     max-width: 1140px;
     display: flex;
     flex-direction: column;
+    margin: auto;
 }
 
 /* Activities section - things-to-do.html */
@@ -204,17 +207,19 @@ h4 {
     display: flex;
     flex-direction: column;
     padding-bottom: 20px;
+    padding-left: 12px;
+    padding-right: 12px;
     background: #cccccc;
 }
 
 #activities>h2 {
-    margin: 12px 0;
+    padding-top: 32px;
     display: flex;
     justify-content: center;
 }
 
 #activities>p {
-    margin: 8px 0;
+    margin: 16px 0;
     padding: 0 1rem;
     display: flex;
     justify-content: center;
@@ -232,10 +237,16 @@ h4 {
     padding-bottom: 20px;
 }
 
-#signup h3, h4 {
+#signup h3 {
     display: flex;
-    margin-top: 8px;
-    margin-bottom: 8px;
+    margin-top: 16px;
+    margin-bottom: 20px;
+    justify-content: center;
+}
+
+#signup h4 {
+    display: flex;
+    margin-top: 32px;
     justify-content: center;
 }
 
@@ -264,6 +275,7 @@ h4 {
     width: 100px;
     display: flex;
     justify-content: center;
+    margin: 20px;
 }
 
 /* Media query for devices 576 pixels or wider - landscape view on mobile */
