@@ -182,15 +182,15 @@ h4 > a {
     background-color: #ffffff;
 }
 
-/* General - thingstodo.html */
+/* General - things-to-do.html */
 
-#thingstodo {
+#things-to-do {
     height: 100vh;
     display: flex;
     flex-direction: column;
 }
 
-/* Activities section - thingstodo.html */
+/* Activities section - things-to-do.html */
 
 #activities {
     color: #202020;
@@ -213,7 +213,7 @@ h4 > a {
     justify-content: center;
 }
 
-/* Form - thingstodo.html */
+/* Form - things-to-do.html */
 
 #signup {
     height: fit-content;
@@ -239,7 +239,7 @@ h4 > a {
     margin-bottom: 12px;
 }
 
-/* Form inputs - thingstodo.html */
+/* Form inputs - things-to-do.html */
 
 .forminput {
     width: 200px;
@@ -259,9 +259,9 @@ h4 > a {
     justify-content: center;
 }
 
-/* Footer - thingstodo.html */
+/* Footer - things-to-do.html */
 
-#footer-thingstodo {
+#footer-things-to-do {
     background-color: #a0a0ff;
 }
 
