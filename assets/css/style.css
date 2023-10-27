@@ -111,17 +111,18 @@ footer {
     background-color: #aaaaaa;
     display: flex;
     flex-direction: column;
+    margin: auto;
 }
 
 #patrick-street {
-    height: 80%;
+    height: 80vh;
     object-fit: cover;
 }
 
 #homepage h2 {
     display: flex;
     justify-content: center;
-    padding: 4px 0;
+    padding: 20px 4px;
 }
 
 /* Info section on Cork - index.html */
@@ -133,6 +134,7 @@ footer {
     flex-direction: row;
     justify-content: space-evenly;
     flex-wrap: wrap;
+    align-items: flex-start;
 }
 
 #info>section {
@@ -140,22 +142,25 @@ footer {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    padding: 20px;
 }
 
 #info>section>h3 {
     color: #ffffff;
-    justify-content: center
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+#info>section>p {
+    display: flex;
+    vertical-align: top;
 }
 
 h4 {
-    align-self: center;
-    padding: 4px 0;
-}
-
-h4 > a {
-    padding: 0 4px;
-    text-decoration: none;
-    color: #ff0000;
+    padding: 24px 20px;
+    display: flex;
+    flex-direction: row;
 }
 
 /* Pictures - pictures.html */
