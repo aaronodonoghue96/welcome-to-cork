@@ -75,9 +75,11 @@ nav {
 
 footer {
     color: #000000;
+    background-color: #ffffff;
     display: flex;
+    vertical-align: bottom;
     justify-content: center;
-    width: 100%;
+    max-width: 1140px;
 }
 
 /* Hamburger menu to display links */
@@ -100,7 +102,7 @@ footer {
 /* Main section - index.html */
 
 #homepage {
-    width: 100%;
+    max-width: : 1140px;
     background-color: #aaaaaa;
     display: flex;
     flex-direction: column;
@@ -150,17 +152,15 @@ h4 > a {
     color: #ff0000;
 }
 
-/* Footer - index.html */
-
-#footer-index {
-    background-color: #aaaaaa;
-}
-
 /* Pictures - pictures.html */
 
 #pics-heading {
     display: flex;
     justify-content: center;
+}
+
+#pictures-main {
+  max-width: 1140px;
 }
 
 #pictures img, #pictures figure {
@@ -177,16 +177,11 @@ h4 > a {
     color: #000000;
 }
 
-/* Footer - pictures.html */
-
-#footer-pictures {
-    background-color: #ffffff;
-}
-
 /* General - things-to-do.html */
 
 #things-to-do {
-    height: 100vh;
+    height: 100%;
+    max-width: 1140px;
     display: flex;
     flex-direction: column;
 }
@@ -258,12 +253,6 @@ h4 > a {
     width: 100px;
     display: flex;
     justify-content: center;
-}
-
-/* Footer - things-to-do.html */
-
-#footer-things-to-do {
-    background-color: #a0a0ff;
 }
 
 /* Media query for devices 576 pixels or wider - landscape view on mobile */
