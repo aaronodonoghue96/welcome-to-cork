@@ -121,7 +121,7 @@ main {
   /* Display as cover to prevent distorting aspect ratio */
   height: 70vh;
   width: 100%;
-  background: url("../images/patrick_street_view.webp") no-repeat center center;
+  background: url("../images/patrick_street.webp") no-repeat center center;
 }
 
 #homepage h2 {
