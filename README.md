@@ -131,7 +131,7 @@ Colour contrast was also checked for all pages using [WebAim Contrast Checker](h
 
 To fork this repository:
 - Login to GitHub.
-- Go to the project repository aaronodonoghue96/ultimate-music-quiz.
+- Go to the project repository aaronodonoghue96/welcome-to-cork.
 - Click the Fork button in the top right corner.
 - You have now forked the repository.
 
@@ -139,7 +139,7 @@ To fork this repository:
 
 To clone this repository:
 - Login to GitHub.
-- Go to the project repository aaronodonoghue96/ultimate-music-quiz.
+- Go to the project repository aaronodonoghue96/welcome-to-cork.
 - Click on the green Code button, and under the Local tab, select either HTTPS, SSH or GitHub CLI, and copy the URL displayed.
 - Open a terminal, navigate to the directory you want to place the repository into, and type 'git clone', then paste the URL you just copied, and press Enter.
 - You have now cloned the repository.
@@ -153,7 +153,7 @@ To clone this repository:
 
 ### Media
 
-- The main image, depicting a view of Cork, looking onto Patrick Street, is from Flickr https://www.flickr.com/photos/infomatique/7586289188, was taken by William Murphy, and is distributed under the ShareAlike license https://creativecommons.org/licenses/by-sa/2.0/. No changes were made to the image during the creation of the Welcome To Cork project.
+- The main image, depicting a view of Cork, looking onto Patrick Street, was photographed by me.
 
 - Most of the photos in the gallery are royalty-free images from Dreamstime. Links to the image sources are below:
 - Barryscourt Castle https://www.dreamstime.com/stock-photo-barryscourt-castle-county-cork-ireland-located-eastern-southern-close-to-town-carrigtwohill-image87289998
