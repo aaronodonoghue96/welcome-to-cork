@@ -51,6 +51,12 @@ The project has a number of different features, which are listed in more detail 
   - The info section shows four sections, namely History, Culture, Entertainment and Cuisine, with a brief paragraph about each topic underneath, showing how each of these things relates to Cork, giving examples of each that can be found in the City.
   - This section gives an overview of what Cork has to offer, and shows there is something for everyone in Cork.
 
+- __Footer__
+
+  ![Footer](assets/screenshots/footer.png)
+
+  - The footer simply shows the name of the website, Welcome To Cork, and that it was made in 2023.
+
 - __Picture Gallery__
 
   ![Picture Gallery](assets/screenshots/gallery.png)
