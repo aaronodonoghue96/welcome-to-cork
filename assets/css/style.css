@@ -233,6 +233,7 @@ footer {
 /* Form - things-to-do.html */
 
 #signup {
+    color: #101010;
     height: fit-content;
     display: flex;
     flex-direction: column;
