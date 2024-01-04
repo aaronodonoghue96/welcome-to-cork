@@ -91,6 +91,8 @@ All of the above were also tested by manually resizing the browser window, which
 
 The form in the Things To Do page (thingstodo.html) also has validation for all inputs, the name field will prompt you to enter a name, the email field will prompt you to enter an email (and will only proceed if the email contains the "@" symbol), and one of the radio buttons for frequency is already selected by default when you enter the form.
 
+Colour contrast was also checked for all pages using [WebAim Contrast Checker](https://webaim.org/resources/contrastchecker) to ensure all backgrounds and texts have sufficient colour contrast to ensure ease of reading.
+
 ### Validator Testing
 
 - HTML
