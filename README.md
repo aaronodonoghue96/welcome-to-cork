@@ -2,7 +2,7 @@
 
 ![Welcome To Cork shown on a variety of screen sizes](assets/screenshots/welcome_to_cork.png)
 
-Visit the deployed site: https://aaronodonoghue96.github.io/welcome_to_cork
+Visit the deployed site: https://aaronodonoghue96.github.io/welcome_to_cork/index.html
 
 Welcome To Cork is a website about the city of Cork, which tells users a bit about the city, some things to do in Cork, and shows pictures of places to visit in Cork. It is targeted at tourists who are looking for an idea of where to go on their next holiday, and those who want to see what Cork has to offer.
 
@@ -29,7 +29,7 @@ The project has a number of different features, which are listed in more detail 
 
 - __Nav Bar__
 
-  ![Nav Bar](https://github.com/aaronodonoghue96/welcome-to-cork/blob/main/assets/screenshots/navbar.png)
+  ![Nav Bar](assets/screenshots/navbar.png)
 
   - The nav bar is located in the header at the top of all three pages, the Home page (index.html), the Pictures page (pictures.html) and the Things To Do page (thingstodo.html). It includes links to all three pages, and indicates the page you are currently on by underlining the link to it. On smaller screens, the links are hidden but will be displayed by clicking on the hamburger icon that appears in the upper right corner.
   - This sections allows users to easily navigate the site without needing to use the browser's forward and back buttons.
@@ -110,9 +110,13 @@ The form in the Things To Do page (thingstodo.html) also has validation for all 
 ## Deployment
 
 - The steps taken to deploy this project to GitHub Pages were as follows:
-  - Navigating to the Settings tab in the GitHub repository for this project
-  - Selecting the master branch from the source section drop-down menu in the settings tab
-  - After selecting the master branch, the page was refreshed with a detailed ribbon display to indicate it had been deployed successfully.
+  - Login to GitHub.
+  - Go to the project repository aaronodonoghue96/welcome-to-cork.
+  - Click on the Settings button.
+  - Select the Pages option in the vertical menu on the left.
+  - Select "main" as the branch from the source dropdown menu.
+  - Click Save.
+  - The site is now deployed.
 
 - The live link can be found here - https://aaronodonoghue96.github.io/welcome-to-cork/index.html
 
