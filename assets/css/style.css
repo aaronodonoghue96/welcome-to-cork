@@ -118,12 +118,8 @@ main {
 }
 
 #patrick-street {
-  /* Specify the height and width of the image */
-  max-height: 50%;
-  max-width: 100%;
-
   /* Display as cover to prevent distorting aspect ratio */
-  background-size: cover;
+  background-size: 100%;
 }
 
 #homepage h2 {
