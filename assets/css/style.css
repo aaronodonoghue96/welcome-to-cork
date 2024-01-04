@@ -254,7 +254,9 @@ footer {
 #signup h4 {
     display: flex;
     margin-top: 32px;
-    justify-content: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    align-items: center;
 }
 
 #signup div {
