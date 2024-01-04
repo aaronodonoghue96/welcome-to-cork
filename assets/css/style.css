@@ -115,7 +115,7 @@ footer {
 
 #patrick-street {
     height: 80vh;
-    background-size: cover;
+    object-fit: cover;
 }
 
 #homepage h2 {
