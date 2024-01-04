@@ -166,9 +166,10 @@ footer {
 
 #pics-heading {
     display: flex;
+    padding-top: 1rem;
     padding-left: 1rem;
     padding-right: 1rem;
-    align-items: center;
+    justify-content: center;
 }
 
 #pictures-main {
