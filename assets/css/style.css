@@ -115,8 +115,7 @@ footer {
 
 #patrick-street {
   /* Specify the height of the image */
-  height: 65%;
-  width: 100vw;
+  height: 50%;
 
   /* Display as cover to prevent distorting aspect ratio */
   object-fit: cover;
