@@ -222,6 +222,7 @@ main {
 
 #activities>h2 {
     padding-top: 32px;
+    padding-bottom: 20px;
     display: flex;
     justify-content: center;
 }
