@@ -119,7 +119,7 @@ main {
 
 #patrick-street {
   /* Display as cover to prevent distorting aspect ratio */
-  background-size: 100%;
+  background-size: cover;
 }
 
 #homepage h2 {
