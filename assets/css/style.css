@@ -113,7 +113,15 @@ footer {
     margin: auto;
 }
 
+main {
+  max-width: 100vw;
+}
+
 #patrick-street {
+  /* Specify the height and width of the image */
+  max-height: 50%;
+  max-width: 100%;
+
   /* Display as cover to prevent distorting aspect ratio */
   background-size: cover;
 }
@@ -166,10 +174,9 @@ footer {
 
 #pics-heading {
     display: flex;
-    padding-top: 1rem;
     padding-left: 1rem;
     padding-right: 1rem;
-    justify-content: center;
+    align-items: center;
 }
 
 #pictures-main {
