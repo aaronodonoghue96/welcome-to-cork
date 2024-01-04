@@ -39,35 +39,35 @@ The project has a number of different features, which are listed in more detail 
 
 - __Landing Image__
 
-  ![Nav Bar](https://github.com/aaronodonoghue96/welcome-to-cork/blob/main/landing.png)
+  ![Landing Image](assets/screenshots/landing.png)
 
   - The landing image is displayed on the Home page (index.html), and depicts a view of Cork, looking onto Patrick Street. It shows the user what Cork looks like, giving them a good idea of what the site is about.
   - This section introduces the user to Welcome To Cork with a photo of the city's main street, and gives the user a good impression of what to expect.
 
 - __Info Section__
 
-  ![Nav Bar](https://github.com/aaronodonoghue96/welcome-to-cork/blob/main/info.png)
+  ![Info Section](assets/screenshots/info.png)
 
   - The info section shows four sections, namely History, Culture, Entertainment and Cuisine, with a brief paragraph about each topic underneath, showing how each of these things relates to Cork, giving examples of each that can be found in the City.
   - This section gives an overview of what Cork has to offer, and shows there is something for everyone in Cork.
 
 - __Picture Gallery__
 
-  ![Nav Bar](https://github.com/aaronodonoghue96/welcome-to-cork/blob/main/gallery.png)
+  ![Picture Gallery](assets/screenshots/gallery.png)
 
   - The gallery shows eight pictures of different sites in Cork, along with the name of each underneath the picture. This shows the user what some of the tourist attractions in Cork look like, and what their names are.
   - This section is useful, as it shows the user a number of places in Cork they can visit, and also says the name of each place so they can search for more information or directions.
 
 - __Activities Section__
 
-  ![Nav Bar](https://github.com/aaronodonoghue96/welcome-to-cork/blob/main/activities_section.png)
+  ![Activities Section](assets/screenshots/activities_section.png)
 
   - The activities section lists details on some additional activities to do in Cork, such as the Cork City Bus Tour, which passes by Cork City Gaol among other places of significance in Cork, shopping at the Marina Market, and visiting the towns of Cobh and Midleton in County Cork.
   - This section is useful as it outlines extra ideas for things to do on your trip to Cork, and to get a feel for what Cork has to offer.
 
 - __Sign-up Form__
 
-  ![Nav Bar](https://github.com/aaronodonoghue96/welcome-to-cork/blob/main/signup_form.png)
+  ![Sign-up Form](assets/screenshots/signup_form.png)
 
   - The sign-up form at the end of the Things To Do page (thingstodo.html) gives the user the opportunity to sign up for an email-based newsletter on new idea for things to do in Cork, such as upcoming concerts or shows, or other tourist attractions not mentioned on the Welcome To Cork website. It also allows the user select how often they would like to receive these emails.
   - This section allows users to find out additional information about Cork and stay up to date with upcoming events in Cork.
@@ -91,7 +91,7 @@ All of the above were also tested by manually resizing the browser window, which
 
 The form in the Things To Do page (thingstodo.html) also has validation for all inputs, the name field will prompt you to enter a name, the email field will prompt you to enter an email (and will only proceed if the email contains the "@" symbol), and one of the radio buttons for frequency is already selected by default when you enter the form.
 
-Colour contrast was also checked for all pages using [WebAim Contrast Checker](https://webaim.org/resources/contrastchecker) to ensure all backgrounds and texts have sufficient colour contrast to ensure ease of reading.
+Colour contrast was also checked for all pages using [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker) to ensure all backgrounds and texts have sufficient colour contrast to ensure ease of reading.
 
 ### Validator Testing
 
