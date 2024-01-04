@@ -119,7 +119,7 @@ footer {
   width: 100%;
 
   /* Display as cover to prevent distorting aspect ratio */
-  object-fit: cover;
+  background-size: cover;
 }
 
 #homepage h2 {
