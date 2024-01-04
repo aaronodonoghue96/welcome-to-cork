@@ -106,7 +106,7 @@ footer {
 /* Main section - index.html */
 
 #homepage {
-    max-width: : 1140px;
+    max-width: 1140px;
     background-color: #aaaaaa;
     display: flex;
     flex-direction: column;
@@ -115,7 +115,7 @@ footer {
 
 #patrick-street {
     height: 80vh;
-    object-fit: cover;
+    background-size: cover;
 }
 
 #homepage h2 {
