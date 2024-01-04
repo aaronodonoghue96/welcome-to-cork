@@ -174,7 +174,8 @@ main {
     display: flex;
     padding-left: 1rem;
     padding-right: 1rem;
-    align-items: center;
+    padding-top: 1rem;
+    justify-content: center;
 }
 
 #pictures-main {
