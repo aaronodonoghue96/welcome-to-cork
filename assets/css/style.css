@@ -117,11 +117,8 @@ footer {
   /* Specify the height of the image */
   height: 65%;
 
-  /* Position and center the image to scale nicely on all screens */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
+  /* Display as cover to prevent distorting aspect ratio */
+  object-fit: cover;
 }
 
 #homepage h2 {
