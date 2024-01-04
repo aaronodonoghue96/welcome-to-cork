@@ -119,6 +119,7 @@ main {
 
 #patrick-street {
   /* Display as cover to prevent distorting aspect ratio */
+  max-width: 100vw;
   object-fit: cover;
 }
 
