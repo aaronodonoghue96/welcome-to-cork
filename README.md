@@ -17,6 +17,9 @@ Welcome To Cork will be useful to tourists to inform them about Cork, giving the
     - [Fixed Bugs](#fixed-bugs)
     - [Unfixed Bugs](#unfixed-bugs)
 - [Deployment](#deployment)
+- [Local Development](#local-development)
+    - [Forking](#forking)
+    - [Cloning](#cloning)
 - [Credits](#credits)
     - [Content](#content)
     - [Media](#media)
@@ -119,6 +122,25 @@ The form in the Things To Do page (thingstodo.html) also has validation for all 
   - The site is now deployed.
 
 - The live link can be found here - https://aaronodonoghue96.github.io/welcome-to-cork/index.html
+
+## Local Development:
+
+### Forking:
+
+To fork this repository:
+- Login to GitHub.
+- Go to the project repository aaronodonoghue96/ultimate-music-quiz.
+- Click the Fork button in the top right corner.
+- You have now forked the repository.
+
+### Cloning:
+
+To clone this repository:
+- Login to GitHub.
+- Go to the project repository aaronodonoghue96/ultimate-music-quiz.
+- Click on the green Code button, and under the Local tab, select either HTTPS, SSH or GitHub CLI, and copy the URL displayed.
+- Open a terminal, navigate to the directory you want to place the repository into, and type 'git clone', then paste the URL you just copied, and press Enter.
+- You have now cloned the repository.
 
 ## Credits
 
