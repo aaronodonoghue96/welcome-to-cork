@@ -120,7 +120,9 @@ Colour contrast was also checked for all pages using [WebAIM Contrast Checker](h
 
 ## Deployment
 
-- The steps taken to deploy this project to GitHub Pages were as follows:
+This site is deployed using GitHub Pages - [Welcome To Cork](https://aaronodonoghue96.github.io/welcome-to-cork/index.html)
+
+To deploy the site to GitHub Pages:
   - Login to GitHub.
   - Go to the project repository aaronodonoghue96/welcome-to-cork.
   - Click on the Settings button.
@@ -128,8 +130,6 @@ Colour contrast was also checked for all pages using [WebAIM Contrast Checker](h
   - Select "main" as the branch from the source dropdown menu.
   - Click Save.
   - The site is now deployed.
-
-- The live link can be found here - https://aaronodonoghue96.github.io/welcome-to-cork/index.html
 
 ## Local Development:
 
