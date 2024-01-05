@@ -2,7 +2,7 @@
 
 ![Welcome To Cork shown on a variety of screen sizes](assets/screenshots/welcome_to_cork.png)
 
-Visit the deployed site: https://aaronodonoghue96.github.io/welcome_to_cork/index.html
+Visit the deployed site: https://aaronodonoghue96.github.io/welcome_to_cork/
 
 Welcome To Cork is a website about the city of Cork, which tells users a bit about the city, some things to do in Cork, and shows pictures of places to visit in Cork. It is targeted at tourists who are looking for an idea of where to go on their next holiday, and those who want to see what Cork has to offer.
 
@@ -120,7 +120,7 @@ Colour contrast was also checked for all pages using [WebAIM Contrast Checker](h
 
 ## Deployment
 
-This site is deployed using GitHub Pages - [Welcome To Cork](https://aaronodonoghue96.github.io/welcome-to-cork/index.html)
+This site is deployed using GitHub Pages - [Welcome To Cork](https://aaronodonoghue96.github.io/welcome-to-cork/)
 
 To deploy the site to GitHub Pages:
   - Login to GitHub.
